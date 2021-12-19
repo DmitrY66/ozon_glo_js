@@ -1,0 +1,12 @@
+json-server --watch db/db.json
+
+http://localhost:3000/goods
+
+
+../.././db/db.json
+
+
+
+
+
+
