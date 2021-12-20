@@ -3,6 +3,7 @@ import load from "./modules/load.js";
 import getData from "./modules/getData.js";
 import search from "./modules/search.js";
 import catalog from "./modules/catalog.js";
+import filter from "./modules/filter.js";
 
 
 cart();
@@ -12,6 +13,8 @@ load();
 search();
 
 catalog();
+
+filter();
 
 getData();
 
